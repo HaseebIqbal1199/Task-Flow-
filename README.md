@@ -17,7 +17,7 @@ Welcome to the Todo app! This simple application allows you to manage your tasks
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/HaseebIqbal1199/Task-Flow-.git
    ```
 
 2. Open the project in your preferred code editor.
